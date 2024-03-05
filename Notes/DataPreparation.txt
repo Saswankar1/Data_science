@@ -1,0 +1,7 @@
+DATA PREPARATION
+  1. Data Cleaning: handle missing values, NULl values, unwanted values
+  2. Data Transformation: turn raw data into desired output
+  3. Handling Outliers: outliers means observ which are distant from the rest of the data
+  4. Data Integration: validated if data in accurate
+  5. Data Reduction: reduce redeundant data
+
