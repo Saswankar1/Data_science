@@ -5,3 +5,8 @@ DATA PREPARATION
   4. Data Integration: validated if data in accurate
   5. Data Reduction: reduce redeundant data
 
+a) Data Cleaning:
+  1. data.dropna()
+  2. data.fillna()
+  3. data.dropna(how='all') => drop where all values are empty
+  4. data.dropna(thresh=5) => data with atleast 5 null values
