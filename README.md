@@ -1,2 +1,3 @@
 ## Data Science
-This repo contains my Data Science Stuff
+This repo contains my Data Science Code and Notes
+
