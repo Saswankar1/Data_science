@@ -1,4 +1,4 @@
 ## Data Science
-This repo contains my Data Science Code, Notes and file
+This repo contains my Data Science Code, Note and file
 
 
